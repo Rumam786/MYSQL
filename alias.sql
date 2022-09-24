@@ -1,0 +1,1 @@
+SELECT id as "Roll_No" from fake2;

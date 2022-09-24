@@ -1,0 +1,1 @@
+SELECT * from fake2 where age >= 17 AND age <= 27 AND city ="Burewala" AND gender = "M";

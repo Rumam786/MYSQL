@@ -1,0 +1,5 @@
+# SELECT * from fake2 where name like "%i"
+# SELECT * from fake2 where name like "r%"
+# SELECT * from fake2 where name like "%n%"
+# SELECT * from fake2 where name like "_u%"
+# SELECT * from fake2 where name like "q_%"

@@ -1,0 +1,1 @@
+delete from fake2 where id = 2151;

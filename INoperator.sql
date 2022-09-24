@@ -1,0 +1,1 @@
+SELECT * from fake2 where age in(24,12,19)

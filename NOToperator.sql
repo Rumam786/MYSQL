@@ -1,0 +1,1 @@
+SELECT * from fake2 where not address = "Islamabad";

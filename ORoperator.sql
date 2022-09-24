@@ -1,0 +1,1 @@
+SELECT * from fake2 where address = "Islamabad" OR address = "Burewala";

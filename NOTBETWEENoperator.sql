@@ -1,0 +1,1 @@
+SELECT * from fake2 where age not between 17 and 26;
